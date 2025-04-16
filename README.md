@@ -204,6 +204,19 @@ The below table includes all the questions, which I have solved.
 | 3 | [Pivot in rotated sorted array)](./binarysearch/pivot_in_rotated_arr.js) |
 | 4 | [Search in rotated sorted array)](./binarysearch/search_in_rotated_arr.js) |
 
+
+### Patterns
+| S.No | Pattern  | Level | Questions | 
+| ------ | ------ | ------ | ------ | 
+| 1 | Two Pointers | Easy | [Merge Two Sorted Lists](./patterns/two-pointers/merge-two-linked-lists.js) |
+| 2 | Two Pointers | Easy | [two Sum](./patterns/two-pointers/two-sum.js) |
+| 3 | Two Pointers | Easy | [Squares of a Sorted Array](./patterns/two-pointers/squares-of-a-sorted-array.js) |
+| 3 | Two Pointers | Easy | [Squares of a Sorted Array](./patterns/two-pointers/squares-of-a-sorted-array.js) |
+| 4 | Two Pointers | Easy | [Backspace String Compare](./patterns/two-pointers/backspace-string-compare.js) |
+| 5 | Two Pointers | Easy | [Moves Zeroes](./patterns/two-pointers/move-zeroes.js) |
+| 6 | Two Pointers | Easy | [Is Subsequence](./patterns/two-pointers/is-subsequence.js) |
+| 7 | Two Pointers | Medium | [Find the duplicate numbers](./patterns/two-pointers/find-the-duplicate-number.js) |
+
 ## Other Resources
 
 1. [Alogrithms - Part 1 By Coursera](https://www.coursera.org/learn/algorithms-part1)

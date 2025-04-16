@@ -11,5 +11,6 @@ function countWays(n) {
     return countWays(n - 1) + countWays(n - 2) + countWays(n - 3);
 }
 
+const n = 4
 
 console.log(`Number of ways to reach step ${n}:`, countWays(n));
